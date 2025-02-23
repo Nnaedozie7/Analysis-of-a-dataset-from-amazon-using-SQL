@@ -1,4 +1,4 @@
-# Sales Analysis for Amazon
+# Sales Analysis for Amazon using SQL in a jupyter notebook environment
 
 ### Project Overview
 
